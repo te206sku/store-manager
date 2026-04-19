@@ -1,0 +1,5 @@
+﻿{
+  "SourceColumns": [ "SaleId", "ProductId", "Price", "Quantity" ],
+  "LocalizeColumns": [ "Продажа", "Товар", "Цена продажи", "Количество" ],
+  "HideColumns": [ "SaleItemId" ]
+}

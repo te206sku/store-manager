@@ -1,0 +1,5 @@
+﻿{
+  "SourceColumns": [ "Name", "ManagerName" ],
+  "LocalizeColumns": [ "Название отдела", "Заведующий" ],
+  "HideColumns": [ "DepartmentId" ]
+}

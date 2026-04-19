@@ -1,0 +1,5 @@
+﻿{
+  "SourceColumns": [ "Name", "Address", "Phone" ],
+  "LocalizeColumns": [ "Название поставщика", "Адрес", "Телефон" ],
+  "HideColumns": [ "SupplierId" ]
+}

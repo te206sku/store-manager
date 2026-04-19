@@ -1,0 +1,5 @@
+﻿{
+  "SourceColumns": [ "Name" ],
+  "LocalizeColumns": [ "Категория товара" ],
+  "HideColumns": [ "ProductCategoryId" ]
+}

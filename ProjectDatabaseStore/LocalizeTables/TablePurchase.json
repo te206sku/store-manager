@@ -1,0 +1,5 @@
+﻿{
+  "SourceColumns": [ "PurchaseDate", "StoreId", "SupplierId" ],
+  "LocalizeColumns": [ "Дата закупки", "Магазин", "Поставщик" ],
+  "HideColumns": [ "PurchaseId" ]
+}

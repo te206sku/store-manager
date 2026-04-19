@@ -1,0 +1,5 @@
+﻿{
+  "SourceColumns": [ "Name", "StoreClass", "StoreNumber", "Address" ],
+  "LocalizeColumns": [ "Название магазина", "Класс магазина", "Номер магазина", "Адрес" ],
+  "HideColumns": [ "StoreId" ]
+}
