@@ -1,5 +1,5 @@
 ﻿{
-  "SourceColumns": [ "Name", "ManagerName" ],
-  "LocalizeColumns": [ "Название отдела", "Заведующий" ],
+  "SourceColumns": [ "Name", "ManagerName", "StoreId" ],
+  "LocalizeColumns": [ "Название отдела", "Заведующий", "Магазин (ID)" ],
   "HideColumns": [ "DepartmentId" ]
 }
